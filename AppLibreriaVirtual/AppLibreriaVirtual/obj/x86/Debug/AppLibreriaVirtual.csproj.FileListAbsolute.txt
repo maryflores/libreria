@@ -1,0 +1,9 @@
+c:\users\intecap_vb.net\documents\visual studio 2010\Projects\AppLibreriaVirtual\AppLibreriaVirtual\bin\Debug\AppLibreriaVirtual.exe
+c:\users\intecap_vb.net\documents\visual studio 2010\Projects\AppLibreriaVirtual\AppLibreriaVirtual\bin\Debug\AppLibreriaVirtual.pdb
+c:\users\intecap_vb.net\documents\visual studio 2010\Projects\AppLibreriaVirtual\AppLibreriaVirtual\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\intecap_vb.net\documents\visual studio 2010\Projects\AppLibreriaVirtual\AppLibreriaVirtual\obj\x86\Debug\AppLibreriaVirtual.Principal.resources
+c:\users\intecap_vb.net\documents\visual studio 2010\Projects\AppLibreriaVirtual\AppLibreriaVirtual\obj\x86\Debug\AppLibreriaVirtual.Properties.Resources.resources
+c:\users\intecap_vb.net\documents\visual studio 2010\Projects\AppLibreriaVirtual\AppLibreriaVirtual\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\intecap_vb.net\documents\visual studio 2010\Projects\AppLibreriaVirtual\AppLibreriaVirtual\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\intecap_vb.net\documents\visual studio 2010\Projects\AppLibreriaVirtual\AppLibreriaVirtual\obj\x86\Debug\AppLibreriaVirtual.exe
+c:\users\intecap_vb.net\documents\visual studio 2010\Projects\AppLibreriaVirtual\AppLibreriaVirtual\obj\x86\Debug\AppLibreriaVirtual.pdb
